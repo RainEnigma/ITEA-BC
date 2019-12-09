@@ -27,4 +27,5 @@ def semordnilap_recogniser(file_name):
             file_result.write(f"{elements}\n")
 
 
+
 semordnilap_recogniser("../Text_Files/HW_01_Semordnilap")

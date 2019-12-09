@@ -14,5 +14,4 @@ def rand_generating(times):
         for iter in range(times):
             file.write(f"{randomiser()}\n")
 
-
 rand_generating(100)
